@@ -14,7 +14,7 @@
  *
  *  Author: Mark Turner <mark@kram.org>
  *
- *  Date: 2017-12-25	Initial version, based on RM Bridge Switch LAN by beckyricha BeckyR
+ *	Date: 2017-12-25	Initial version, based on RM Bridge Switch LAN by beckyricha BeckyR
  *	Date: 2017-12-25	Add ability to send multiple commands using space separated list of commands for device.deviceNetworkId
  */
 metadata {
